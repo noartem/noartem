@@ -1,4 +1,4 @@
-### Hi there, Artem here 👋
+### Hi there 👋
 
 - :construction_worker: Freelancer: JavaScript, TypeScript, React, Golang
 - :seedling: I’m currently learning python and deep learning

@@ -10,7 +10,7 @@
 |-------|------|-------------|
 | C++, Skia, GLFW   | [Elementor](https://github.com/noartem/elementor) | UI library for Desktop Applications written in C++ using Skia and GLFW |
 | Godot | [Mushrooms VS Pigs](https://github.com/noartem/mushroomsvspigs) | tower defence game |
-| Vue, JavaScript | [scheduling-algorithms](https://github.com/noartem/scheduling-algorithms) | Various scheduling alghoritms process visualization |
+| Vue, TypeScript | [scheduling-algorithms](https://github.com/noartem/scheduling-algorithms) | Various scheduling alghoritms process visualization |
 | React, TypeScript |  [pomidor](https://github.com/noartem/pomidor) | pomidor time tracker. DEMO: [noartem.github.io/pomidor](https://noartem.github.io/pomidor) |
 | React, TypeScript | [2048](https://github.com/noartem/2048) | DEMO: [noartem.github.io/2048](https://noartem.github.io/2048) |
 | React, TypeScript |  [mmap](https://github.com/noartem/mmap) | self-management tools. DEMO: [noartem.github.io/mmap](https://noartem.github.io/mmap) |

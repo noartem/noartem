@@ -2,7 +2,7 @@
 
 - Software engineer interested in web
 - :construction_worker: JavaScript, TypeScript, Vue, React, Golang, PHP, C++
-- :mailbox_with_mail: <nowasmawesome@gmail.com>
+- :mailbox_with_mail: <artem@noartem.ru>
 
 ## Portfolio
 

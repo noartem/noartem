@@ -8,6 +8,7 @@
 
 | Stack | Name | Description |
 |-------|------|-------------|
+| PHP, Laravel | [laravel-wide-events](https://github.com/noartem/laravel-wide-events) | Wide Events for Laravel, inspired by [loggingsucks.com](https://loggingsucks.com) |
 | C++, Skia, GLFW   | [Elementor](https://github.com/noartem/elementor) | UI library for Desktop Applications written in C++ using Skia and GLFW |
 | Godot | [Mushrooms VS Pigs](https://github.com/noartem/mushroomsvspigs) | tower defence game |
 | Vue, TypeScript | [scheduling-algorithms](https://github.com/noartem/scheduling-algorithms) | Various scheduling alghoritms process visualization. DEMO: [noartem.github.io/scheduling-algorithms](https://noartem.github.io/scheduling-algorithms/) |

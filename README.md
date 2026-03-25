@@ -8,7 +8,10 @@
 
 | Stack | Name | Description |
 |-------|------|-------------|
+| TypeScript | [nnt](https://github.com/noartem/nnt) | Easily send notifications from terminal and coding agents | 
+| Markdown, TypeScript | [skills](https://github.com/noartem/skills) | Personal collection of hand crafted agents skills, view on [skills.sh/noartem](https://skills.sh/noartem) | 
 | PHP, Laravel | [laravel-wide-events](https://github.com/noartem/laravel-wide-events) | Wide Events for Laravel, inspired by [loggingsucks.com](https://loggingsucks.com) |
+| PHP, Python, TypeScript | [kawa](https://github.com/noartem/kawa) | Agents powered automation platform |
 | C++, Skia, GLFW   | [Elementor](https://github.com/noartem/elementor) | UI library for Desktop Applications written in C++ using Skia and GLFW |
 | Godot | [Mushrooms VS Pigs](https://github.com/noartem/mushroomsvspigs) | tower defence game |
 | Vue, TypeScript | [scheduling-algorithms](https://github.com/noartem/scheduling-algorithms) | Various scheduling alghoritms process visualization. DEMO: [noartem.github.io/scheduling-algorithms](https://noartem.github.io/scheduling-algorithms/) |

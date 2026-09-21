@@ -2,7 +2,7 @@ name: Refresh README
 
 # Keeps the profile README current:
 #  - daily scheduled run
-#  - immediate run when the bucket repo changes (repository_dispatch: bucket-updated)
+#  - manual run
 # Portfolio table comes from noartem.github.io index.yml (main),
 # Bucket table with versions from noartem/bucket manifests.
 
@@ -10,8 +10,6 @@ on:
   schedule:
     - cron: "30 6 * * *" # daily, after site refresh
   workflow_dispatch:
-  repository_dispatch:
-    types: [bucket-updated]
 
 permissions:
   contents: write

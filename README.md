@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- Software engineer interested in web
-- :construction_worker: JavaScript, TypeScript, Vue, React, Golang, PHP, C++, Rust
+- Software engineer interested in web and native
+- :construction_worker: Backend (Golang, PHP, Node.js), Frontend (JavaScript, TypeScript, Vue, React), Native (C++, Rust)
 - :mailbox_with_mail: <artem@noartem.ru>
 
 ## Portfolio

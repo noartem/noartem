@@ -1,0 +1,50 @@
+name: Refresh README
+
+# Keeps the profile README current:
+#  - daily scheduled run
+#  - immediate run when the bucket repo changes (repository_dispatch: bucket-updated)
+# Portfolio table comes from noartem.github.io index.yml (main),
+# Bucket table with versions from noartem/bucket manifests.
+
+on:
+  schedule:
+    - cron: "30 6 * * *" # daily, after site refresh
+  workflow_dispatch:
+  repository_dispatch:
+    types: [bucket-updated]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-readme
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - run: npm install --no-audit --no-fund
+
+      - name: Build README
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/build-readme.cjs
+
+      - name: Commit if changed
+        run: |
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh portfolio and bucket tables"
+          git push

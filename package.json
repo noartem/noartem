@@ -1,0 +1,11 @@
+{
+  "name": "noartem-profile",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "build-readme": "node scripts/build-readme.cjs"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

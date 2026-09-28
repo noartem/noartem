@@ -47,7 +47,7 @@ scoop install noartem/twentymate
 | [neru](https://github.com/y3owk1n/neru) | 1.55.0 | MIT | [y3owk1n/neru](https://github.com/y3owk1n/neru) |
 | [recordly](https://recordly.dev/) | 1.4.0 | AGPL-3.0 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) |
 | [t3code](https://t3.codes) | 0.0.42 | MIT | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) |
-| [taskslinger](https://taskslinger.net/) | 0.9.0 | Proprietary | — |
+| [taskslinger](https://taskslinger.net/) | 0.9.2 | Proprietary | — |
 | [twentymate](https://github.com/noartem/twentymate) | 2.3.1 | GPL-3.0-only | [noartem/twentymate](https://github.com/noartem/twentymate) |
 | [vantage-box](https://github.com/noartem/vantage-box) | 1.5.2 | MIT | [noartem/vantage-box](https://github.com/noartem/vantage-box) |
 <!-- bucket:end -->

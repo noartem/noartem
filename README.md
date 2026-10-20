@@ -45,7 +45,7 @@ scoop install noartem/twentymate
 | [blick](https://blickeditor.com/) | 0.4.1 | Proprietary | — |
 | [cloakui](https://github.com/noartem/cloakui) | 0.1.0 | Unknown | [noartem/cloakui](https://github.com/noartem/cloakui) |
 | [fastpotify](https://github.com/crmne/fastpotify) | 0.9.1 | MIT | [crmne/fastpotify](https://github.com/crmne/fastpotify) |
-| [neru](https://github.com/y3owk1n/neru) | 1.58.0 | MIT | [y3owk1n/neru](https://github.com/y3owk1n/neru) |
+| [neru](https://github.com/y3owk1n/neru) | 1.59.0 | MIT | [y3owk1n/neru](https://github.com/y3owk1n/neru) |
 | [recordly](https://recordly.dev/) | 1.4.0 | AGPL-3.0 | [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) |
 | [t3code](https://t3.codes) | 0.1.0 | MIT | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) |
 | [taskslinger](https://taskslinger.net/) | 0.9.4 | Proprietary | — |

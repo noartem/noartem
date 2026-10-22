@@ -42,7 +42,7 @@ scoop install noartem/twentymate
 | App | Version | License | Repository |
 |-----|---------|---------|------------|
 | [artemis](https://github.com/wjbeckett/artemis) | 0.6.7-dev.20250831.0017+afe2de7 | GPL-3.0-only | [wjbeckett/artemis](https://github.com/wjbeckett/artemis) |
-| [blick](https://blickeditor.com/) | 0.4.1 | Proprietary | — |
+| [blick](https://blickeditor.com/) | 0.4.2 | Proprietary | — |
 | [cloakui](https://github.com/noartem/cloakui) | 0.1.0 | Unknown | [noartem/cloakui](https://github.com/noartem/cloakui) |
 | [fastpotify](https://github.com/crmne/fastpotify) | 0.9.1 | MIT | [crmne/fastpotify](https://github.com/crmne/fastpotify) |
 | [neru](https://github.com/y3owk1n/neru) | 1.59.0 | MIT | [y3owk1n/neru](https://github.com/y3owk1n/neru) |
